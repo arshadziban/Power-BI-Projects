@@ -21,7 +21,7 @@ The **Hospital Emergency Room Dashboard** provides a monthly view of critical ER
 
 ## File Details
 
-- `image.jpg`: Visual representation of the dashboard, showcasing its layout and data visualizations.
+- Visual representation of the dashboard, showcasing its layout and data visualizations.
 
 ## Tools and Technologies Used
 
