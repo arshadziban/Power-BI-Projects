@@ -2,6 +2,10 @@
 
 This repository showcases a Power BI project providing sales insights through an interactive and intuitive dashboard. The dashboard is designed to visualize key business metrics, including revenue, sales quantity, and trends across different time periods and customer segments.
 
+## Dashboard Preview
+
+![Dashboard Preview](image.jpg)
+
 ## Dashboard Features
 
 - **Key Metrics**:
